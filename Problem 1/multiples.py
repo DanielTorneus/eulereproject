@@ -1,7 +1,9 @@
+# AmusableLemurs solution: O(n)
+
 sum = 0
 
-for i in range(0, 1000):
-    if i % 3 == 0 or i % 5 == 0:
-        sum += i
+for number in range(0, 1000):
+    if number % 3 == 0 or number % 5 == 0:
+        sum += number
 
 print sum
