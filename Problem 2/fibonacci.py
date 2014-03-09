@@ -18,4 +18,4 @@ while c < 4000000:
     if a % 2 == 0:
         sum += a
 
-print sum
+print(sum)
