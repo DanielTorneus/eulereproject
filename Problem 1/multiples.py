@@ -1,9 +1,15 @@
-# Current solution: O(n)
+# Current solution: O(1) ?
+import math
 
-sum = 0
+number = 1000-1
+x = math.trunc(number/3)
+y = math.trunc(number/5)
+z = math.trunc(number/15)
 
-for number in range(1, 1000):
-    if number % 3 == 0 or number % 5 == 0:
-        sum += number
+X = (x*(x-1)/2 + x)*3
+Y = (y*(y-1)/2 + y)*5
+Z = (z*(z-1)/2 + z)*15
 
-print(sum)
+total = X + Y - Z
+
+print total
