@@ -1,4 +1,4 @@
-# Current solution: O(k) ?
+# Current solution: O(1) ?
 import math
 
 number = 1000-1
