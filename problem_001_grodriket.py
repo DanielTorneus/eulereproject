@@ -1,4 +1,9 @@
-# Current solution: O(1) ?
+#! /usr/bin/env python3.3
+
+# Authors: grodriket
+# Complexity: O(1)
+# Output: 233168
+
 import math
 
 number = 1000-1

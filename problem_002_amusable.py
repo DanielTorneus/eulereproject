@@ -1,4 +1,8 @@
-# Current solution: O(logn)
+#! /usr/bin/env python3.3
+
+# Authors: AmusableLemur
+# Complexity: O(logn)
+# Output: 4613732
 
 # Fibonacci sequence
 a = 1
