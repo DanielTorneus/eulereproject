@@ -1,7 +1,7 @@
 #! /usr/bin/env python3.3
 
 # Authors: AmusableLemur
-# Complexity: O(bad)
+# Complexity: O(n^2)
 # Output: 906609
 
 from math import sqrt
