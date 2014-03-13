@@ -4,8 +4,6 @@
 # Complexity: O(nlogn)
 # Output: 104743
 
-from math import sqrt
-
 primes = [2]
 
 def is_prime(n):
