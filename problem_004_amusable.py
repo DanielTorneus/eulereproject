@@ -4,8 +4,6 @@
 # Complexity: O(n^2)
 # Output: 906609
 
-from math import sqrt
-
 number = 0
 
 # Could possibly avoid checking duplicates here

@@ -4,8 +4,6 @@
 # Complexity: O(logn)
 # Output: 6857
 
-from math import sqrt
-
 number = 600851475143
 i = 2
 
