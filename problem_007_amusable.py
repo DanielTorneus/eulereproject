@@ -17,7 +17,7 @@ def is_prime(n):
 	return True
 
 counter = 1
-number = 3
+number = 1
 
 while counter < 10001:
 	# Skip even numbers
