@@ -2,7 +2,7 @@
 
 ; Authors: Crobol
 ; Complexity: ?
-; Output: 104761
+; Output: 104743
 
 (def n 10001)
 
